@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>2</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="2">d903a3a61b256d1046f0dc6cdc4bcb81</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-16 12:36:13</sys_created_on>
+        <sys_id>9103a3a61b256d1046f0dc6cdc4bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Call Management" source="5feb6b1d1b4de91046f0dc6cdc4bcb9b">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_scope>
+        <sys_update_name>sp_column_9103a3a61b256d1046f0dc6cdc4bcb84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-16 12:36:13</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</application>
+        <file_path/>
+        <instance_id>7e118b47db60cfc86578f22ebf9619ee</instance_id>
+        <instance_name>dev43091</instance_name>
+        <name>sp_column_9103a3a61b256d1046f0dc6cdc4bcb84</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>2</size><size_lg/><size_sm/><size_xs/><sp_row display_value="2">d903a3a61b256d1046f0dc6cdc4bcb81</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-16 12:36:13</sys_created_on><sys_id>9103a3a61b256d1046f0dc6cdc4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Call Management" source="5feb6b1d1b4de91046f0dc6cdc4bcb9b">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_package><sys_policy/><sys_scope display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_scope><sys_update_name>sp_column_9103a3a61b256d1046f0dc6cdc4bcb84</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-16 12:36:13</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>844854913</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>906ff5c0756401100acb0f6766fcbf1c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-16 12:36:14</sys_created_on>
+        <sys_id>1103a3a61b256d1046f0dc6cdc4bcb86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186ea6bba590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-16 12:36:14</sys_updated_on>
+        <type>Column</type>
+        <update_guid>5903a3a60e256d10e5d61adafc885185</update_guid>
+        <update_guid_history>5903a3a60e256d10e5d61adafc885185:844854913</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">6423e7e61b256d1046f0dc6cdc4bcbd5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-16 12:36:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>c8f21a23c075418094ce21cdf9602b31</sys_id>
+        <sys_metadata>9103a3a61b256d1046f0dc6cdc4bcb84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Call Management" source="5feb6b1d1b4de91046f0dc6cdc4bcb9b">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_scope>
+        <sys_scope_delete display_value="">8d3b28ca529c49109337204e13c0a640</sys_scope_delete>
+        <sys_update_name>sp_column_9103a3a61b256d1046f0dc6cdc4bcb84</sys_update_name>
+        <sys_update_version display_value="sp_column_9103a3a61b256d1046f0dc6cdc4bcb84">1103a3a61b256d1046f0dc6cdc4bcb86</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-16 12:36:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

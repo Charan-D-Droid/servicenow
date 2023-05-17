@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_type_of_request</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>clear request fileds</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	g_form.clearValue("	u_type_of_hardware");
+	g_form.clearValue("	u_type_of_software");
+	g_form.clearValue("	u_access_for");
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-19 22:04:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7bce343f1b25615046f0dc6cdc4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>clear request fileds</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Call Management" source="5feb6b1d1b4de91046f0dc6cdc4bcb9b">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_scope>
+        <sys_update_name>sys_script_client_7bce343f1b25615046f0dc6cdc4bcb27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-19 22:04:52</sys_updated_on>
+        <table>u_call</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
