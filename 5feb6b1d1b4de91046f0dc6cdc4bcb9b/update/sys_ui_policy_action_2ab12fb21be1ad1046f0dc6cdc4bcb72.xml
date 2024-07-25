@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>u_type_of_change</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-17 07:10:01</sys_created_on>
+        <sys_id>2ab12fb21be1ad1046f0dc6cdc4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_type_of_change</sys_name>
+        <sys_package display_value="Call Management" source="5feb6b1d1b4de91046f0dc6cdc4bcb9b">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_2ab12fb21be1ad1046f0dc6cdc4bcb72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-17 07:10:01</sys_updated_on>
+        <table>u_call</table>
+        <ui_policy display_value="after call is closed">bb637ded1bed291046f0dc6cdc4bcbc9</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

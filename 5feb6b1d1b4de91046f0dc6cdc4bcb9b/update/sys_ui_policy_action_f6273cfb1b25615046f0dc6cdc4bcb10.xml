@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>assignment_group</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-19 21:18:06</sys_created_on>
+        <sys_id>f6273cfb1b25615046f0dc6cdc4bcb10</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
+        <sys_package display_value="Call Management" source="5feb6b1d1b4de91046f0dc6cdc4bcb9b">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Call Management">5feb6b1d1b4de91046f0dc6cdc4bcb9b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f6273cfb1b25615046f0dc6cdc4bcb10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-19 22:06:25</sys_updated_on>
+        <table>u_call</table>
+        <ui_policy display_value="when call is not open">98d1f8b71b25615046f0dc6cdc4bcbfb</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
